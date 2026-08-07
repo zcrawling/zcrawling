@@ -30,6 +30,12 @@
 <img src="https://img.shields.io/badge/Zephyr-3334B3?style=flat-square&logo=Zephyr&logoColor=white"/>
 <img src="https://img.shields.io/badge/ZeroMQ-DA0000?style=flat-square&logo=ZeroMQ&logoColor=white"/>
 <br>
+    
+### Interested in...   
+#### Rocket Avinoics FSW   
+#### Space-Rover Firmware   
+#### satellite FSW    
+
 
 ### Side Projects
 <a href="https://github.com/zcrawling/roslike">

@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zephyr-13A4B3?style=flat-square&logo=cFS&logoColor=white"/>
+<img src="https://img.shields.io/badge/cFS-13A4B3?style=flat-square&logo=cFS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zephyr-3334B3?style=flat-square&logo=Zephyr&logoColor=white"/>
 <img src="https://img.shields.io/badge/ZeroMQ-DA0000?style=flat-square&logo=ZeroMQ&logoColor=white"/>
 <br>

@@ -34,7 +34,7 @@
     
 ### Interested in...   
 #### Rocket Avinoics FSW   
-#### Space-Rover Firmware   
+#### Rover Platform Firmware   
 #### satellite FSW    
 
 

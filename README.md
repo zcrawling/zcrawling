@@ -35,9 +35,12 @@
 <br>
     
 ### Interested in...   
-#### Rocket Avinoics FSW   
-#### Rover Platform Firmware   
-#### satellite FSW    
+#### Rocket Avionics FSW     
+#### satellite FSW  
+#### Vehicle Firmware 
+#### Autonomous Driving
+
+    
 
 
 ### Side Projects
